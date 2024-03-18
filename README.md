@@ -7,8 +7,8 @@ This repository features R projects I completed during my Concepts of Computing 
 ## Assignments
 
 - [Demo](demo)
-- [Workout 1](workout01)
-- [Workout 2](workout02)
-- [Workout 3](binomial)
+- [NBA Research Analytics Report](workout01)
+- [Investment Scenarios Shiny App](workout02)
+- [binomial R Package](binomial)
 
 
