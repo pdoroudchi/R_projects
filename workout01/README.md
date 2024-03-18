@@ -14,8 +14,6 @@ Workout 01 is divided into several folders, such as code, data, images, output, 
 
 - Name: Pedram Doroudchi  
 - Github username: pdoroudchi  
-- Email: pdoroudchi@berkeley.edu  
-- Lab section: 107  
-- GSI: Dodo Qian  
+- Email: pdoroudchi@gmail.com  
 
 
