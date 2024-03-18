@@ -9,4 +9,8 @@ This repository features R projects I completed during my Concepts of Computing 
 - [Investment Scenarios Shiny App](workout02)
 - [binomial R Package](binomial)
 
+## Author Information
 
+- Name: Pedram Doroudchi  
+- Github username: pdoroudchi  
+- Email: pdoroudchi@gmail.com
