@@ -1,8 +1,6 @@
-# R Projects from Concepts in Computing with Data Course, Spring 2019
+# R Projects from Concepts in Computing with Data Course
 
 This repository features R projects I completed during my Concepts of Computing with Data course at UC Berkeley during Spring 2019!
-
------
 
 ## Assignments
 
